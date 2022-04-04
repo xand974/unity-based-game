@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d781dc41e1849f4291177cd05bf8e4f, type: 3}
   m_Name: Couteau
   m_EditorClassIdentifier: 
-  Damage: 0
-  Name: 
-  FreezeDuration: 0
-  Prefab: {fileID: 0}
+  Damage: 5
+  Name: Petit couteau
+  FreezeDuration: 1
+  Prefab: {fileID: 7434734217426156271, guid: 62f13eb3a927a40439d9df3f845c4f15, type: 3}

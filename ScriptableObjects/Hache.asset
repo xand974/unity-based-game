@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d781dc41e1849f4291177cd05bf8e4f, type: 3}
   m_Name: Hache
   m_EditorClassIdentifier: 
-  Damage: 0
-  Name: 
-  FreezeDuration: 0
-  Prefab: {fileID: 0}
+  Damage: 15
+  Name: 'Hache '
+  FreezeDuration: 5
+  Prefab: {fileID: 919132149155446097, guid: e6cafdbc73d682e4a8c2165e8464607a, type: 3}

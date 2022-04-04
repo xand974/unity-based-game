@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 5d781dc41e1849f4291177cd05bf8e4f, type: 3}
-  m_Name: Sword
+  m_Name: Torche
   m_EditorClassIdentifier: 
-  Damage: 0
-  Name: 
-  FreezeDuration: 0
-  Prefab: {fileID: 0}
+  Damage: 2
+  Name: Torche
+  FreezeDuration: 1
+  Prefab: {fileID: 2083943641721818151, guid: b9e9b9817b565da4c87dd7d4d36b234b, type: 3}

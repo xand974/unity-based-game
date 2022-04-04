@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 5d781dc41e1849f4291177cd05bf8e4f, type: 3}
-  m_Name: Katana
+  m_Name: Massue
   m_EditorClassIdentifier: 
-  Damage: 0
-  Name: 
-  FreezeDuration: 0
-  Prefab: {fileID: 0}
+  Damage: 20
+  Name: 'Massue '
+  FreezeDuration: 4
+  Prefab: {fileID: 5882740418562934682, guid: dea89ad487fba0d43998917fd5f30879, type: 3}
